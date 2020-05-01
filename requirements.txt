@@ -1,7 +1,6 @@
 appnope==0.1.0
 backcall==0.1.0
 beautifulsoup4==4.6.3
-bleach==2.1.4
 certifi==2018.8.24
 chardet==3.0.4
 Click==7.0
@@ -21,7 +20,6 @@ ipython-genutils==0.2.0
 ipywidgets==7.4.2
 itsdangerous==1.1.0
 jedi==0.12.1
-Jinja2==2.10
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
@@ -65,7 +63,6 @@ testpath==0.4.1
 tornado==5.1.1
 traitlets==4.3.2
 tweepy==3.6.0
-urllib3==1.23
 virtualenv==16.0.0
 wcwidth==0.1.7
 webencodings==0.5.1
